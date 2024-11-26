@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- [Dota Calculator level hero](https://github.com/savitar696/dota-calculator-ts)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=savitar696&show_icons=true&hide_title=true)
 
 <!--
