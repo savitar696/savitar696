@@ -1,3 +1,1 @@
-## Hi there 👋
-
-- [Dota Calculator level hero](https://github.com/savitar696/dota-calculator-ts)
+<p align="center">Contact me: <a href="https://t.me/slowryz">Telegram</a></p>
